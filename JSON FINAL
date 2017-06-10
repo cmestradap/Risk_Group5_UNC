@@ -1,0 +1,3 @@
+
+
+{"session":[{"id":99,"state":"state1","type":"classic","map":"Classic"}],"players":[{"turn":true,"playing":"test1","color":"Blue","capturestate":"yes","territory_amount":"red","continent_amount":"red","card_amount":"l","trades":"re","army":"37"}],"continent":[{"map":"Clasic","name":"AMEROKI","owner":"red"},{"map":"Clasic","name":"AFROKI","owner":"yellow"}],"territory":[{"name":"AFGHANISTAN","owner":"red","owner":"red","continent":"AZIO","type":"friend"}]}
